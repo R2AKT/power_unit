@@ -7,7 +7,7 @@ ATX PSU control based on 'ISA 8-bit Backplane' (https://github.com/skiselev/isa8
 
 Status - Tested.
 
-Плата питания. Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
+Плата питания. Для самодельной 8-битной микро-ЭВМ - https://github.com/R2AKT/Mega-80.
 Управление блоком питания ATX на основе 'ISA 8-bit Backplane' (https://github.com/skiselev/isa8_backplane).
 
 Статус - Проверено.
